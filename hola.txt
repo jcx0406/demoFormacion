@@ -1,1 +1,1 @@
-Hola! Bienvenidos al repo!
+Hola! Bienvenidos al repo! Vamos a aprender a trabajar con GIT
